@@ -39,6 +39,7 @@ public:
 
 
 
+
 * 2023/12
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -54,4 +55,5 @@ public:
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|2|[HJ2 计算某字符出现次数](https://github.com/sumulige/huawei-od/issues/2)|`字符串` `hash`|2023-12-21T16:20:18Z|
 |1|[HJ1 字符串最后一个单词的长度](https://github.com/sumulige/huawei-od/issues/1)|`字符串`|2023-12-21T14:45:40Z|
