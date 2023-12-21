@@ -1,7 +1,7 @@
 # 📝 华为OD算法记录
 
-刷题进度：[![LeetCode](https://img.shields.io/github/issues/doragd/algorithm?style=flat&label=%F0%9F%8C%B8%20LeetCode%20Record&labelColor=%20%236DB9EF&color=%23FF90BC&link=https%3A%2F%2Fgithub.com%2Fdoragd%2Falgorithm
-)](https://github.com/doragd/algorithm)
+刷题进度：[![LeetCode](https://img.shields.io/github/issues/sumulige/huawei-od?style=flat&label=%F0%9F%8C%B8%20LeetCode%20Record&labelColor=%20%236DB9EF&color=%23FF90BC&link=https%3A%2F%2Fgithub.com%2Fsumulige%2Fhuawei-od
+)](https://github.com/sumulige/huawei-od)
 
 ## 🎄 How to Use
 
@@ -9,6 +9,31 @@
 
 查看[Usage](Usage.md)文档，创建并使用一个个人专属的记录博客。
 
+##  Issue 模板
+
+-   给你一个二叉树的根节点 `root`， 检查它是否轴对称。
+-   递归遍历+问题分解+分类讨论
+    -   子结构: 两棵小树p和q, 同步遍历两棵树
+    -   终止条件：p和q其中一方为空 或者 p 和 q不相等 return false
+    -   否则: 递归判定: (左子树,右子树) (右子树,左子树)
+```
+class Solution {
+public:
+    //递归遍历+分类讨论:
+    //子结构: 两棵小树p和q, 同步遍历两棵树
+    //p和q其中一方为空 或者 p 和 q不相等 return false
+    //否则: 递归判定: (左子树,右子树) (右子树,左子树)
+    bool dfs(TreeNode *p, TreeNode *q){
+        if(!p && !q) return true;
+        if(p && q && p->val == q->val) return dfs(p->left, q->right) && dfs(p->right, q->left);
+        return false;
+    }
+    bool isSymmetric(TreeNode* root) {
+        if(!root) return true;
+        return dfs(root->left, root->right);
+    }
+};
+```
 
 ## 🎯 Calendar
 
