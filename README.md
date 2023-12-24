@@ -43,6 +43,7 @@ public:
 
 
 
+
 * 2023/12
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -59,6 +60,6 @@ public:
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
 |4|[HJ4 字符串分隔](https://github.com/sumulige/huawei-od/issues/4)|`字符串`|2023-12-24T15:36:27Z|
-|3|[HJ3 明明的随机数](https://github.com/sumulige/huawei-od/issues/3)||2023-12-24T10:12:57Z|
+|3|[HJ3 明明的随机数](https://github.com/sumulige/huawei-od/issues/3)|`数组`|2023-12-24T10:12:57Z|
 |2|[HJ2 计算某字符出现次数](https://github.com/sumulige/huawei-od/issues/2)|`字符串` `hash`|2023-12-21T16:20:18Z|
 |1|[HJ1 字符串最后一个单词的长度](https://github.com/sumulige/huawei-od/issues/1)|`字符串`|2023-12-21T14:45:40Z|
