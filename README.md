@@ -46,6 +46,7 @@ public:
 
 
 
+
 * 2023/12
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -61,7 +62,7 @@ public:
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
-|6|[HJ6 质数因子](https://github.com/sumulige/huawei-od/issues/6)||2023-12-26T11:33:41Z|
+|6|[HJ6 质数因子](https://github.com/sumulige/huawei-od/issues/6)|`排序`|2023-12-26T11:33:41Z|
 |5|[HJ5 进制转换](https://github.com/sumulige/huawei-od/issues/5)|`字符串`|2023-12-26T08:34:54Z|
 |4|[HJ4 字符串分隔](https://github.com/sumulige/huawei-od/issues/4)|`字符串`|2023-12-24T15:36:27Z|
 |3|[HJ3 明明的随机数](https://github.com/sumulige/huawei-od/issues/3)|`数组`|2023-12-24T10:12:57Z|
