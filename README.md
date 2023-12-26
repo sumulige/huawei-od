@@ -44,6 +44,7 @@ public:
 
 
 
+
 * 2023/12
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -52,13 +53,14 @@ public:
 |4|5|6|7|8|9|10|
 |11|12|13|14|15|16|17|
 |18|19|20|21🌟|22|23|24🌟|
-|25|26|27|28|29|30|31|
+|25|26🌟|27|28|29|30|31|
 
 
 ## 🍃 Records
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|5|[HJ5 进制转换](https://github.com/sumulige/huawei-od/issues/5)|`字符串`|2023-12-26T08:34:54Z|
 |4|[HJ4 字符串分隔](https://github.com/sumulige/huawei-od/issues/4)|`字符串`|2023-12-24T15:36:27Z|
 |3|[HJ3 明明的随机数](https://github.com/sumulige/huawei-od/issues/3)|`数组`|2023-12-24T10:12:57Z|
 |2|[HJ2 计算某字符出现次数](https://github.com/sumulige/huawei-od/issues/2)|`字符串` `hash`|2023-12-21T16:20:18Z|
