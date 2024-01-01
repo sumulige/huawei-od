@@ -37,6 +37,7 @@ public:
 
 ## 🎯 Calendar
 
+
 * 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -45,14 +46,14 @@ public:
 |8|9|10|11|12|13|14|
 |15|16|17|18|19|20|21|
 |22|23|24|25|26|27|28|
-|29|30|31|1|2|3|4|
+|29|30|31|1🌟|2|3|4|
 
 
 ## 🍃 Records
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
-|7|[HJ7 取近似值](https://github.com/sumulige/huawei-od/issues/7)||2024-01-01T14:16:09Z|
+|7|[HJ7 取近似值](https://github.com/sumulige/huawei-od/issues/7)|`基础数学` `语法题`|2024-01-01T14:16:09Z|
 |6|[HJ6 质数因子](https://github.com/sumulige/huawei-od/issues/6)|`排序`|2023-12-26T11:33:41Z|
 |5|[HJ5 进制转换](https://github.com/sumulige/huawei-od/issues/5)|`字符串`|2023-12-26T08:34:54Z|
 |4|[HJ4 字符串分隔](https://github.com/sumulige/huawei-od/issues/4)|`字符串`|2023-12-24T15:36:27Z|
