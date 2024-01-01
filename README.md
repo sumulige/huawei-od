@@ -38,6 +38,7 @@ public:
 ## 🎯 Calendar
 
 
+
 * 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -53,6 +54,7 @@ public:
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|8|[HJ8 合并表记录](https://github.com/sumulige/huawei-od/issues/8)|`hash`|2024-01-01T14:25:38Z|
 |7|[HJ7 取近似值](https://github.com/sumulige/huawei-od/issues/7)|`基础数学` `语法题`|2024-01-01T14:16:09Z|
 |6|[HJ6 质数因子](https://github.com/sumulige/huawei-od/issues/6)|`排序`|2023-12-26T11:33:41Z|
 |5|[HJ5 进制转换](https://github.com/sumulige/huawei-od/issues/5)|`字符串`|2023-12-26T08:34:54Z|
