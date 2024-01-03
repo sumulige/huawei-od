@@ -1,4 +1,4 @@
-# 📝 华为OD算法记录
+# 📝 LeetCode算法记录
 
 刷题进度：[![LeetCode](https://img.shields.io/github/issues/sumulige/huawei-od?style=flat&label=%F0%9F%8C%B8%20LeetCode%20Record&labelColor=%20%236DB9EF&color=%23FF90BC&link=https%3A%2F%2Fgithub.com%2Fsumulige%2Fleetcode
 )](https://github.com/sumulige/leetcode)
