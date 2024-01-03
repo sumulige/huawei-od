@@ -43,6 +43,7 @@ public:
 
 
 
+
 * 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -58,7 +59,7 @@ public:
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
-|10|[27. 移除元素 - 力扣（LeetCode）](https://github.com/sumulige/leetcode/issues/10)|`数组`|2024-01-03T15:24:02Z|
+|10|[27. 移除元素 - 力扣（LeetCode）](https://github.com/sumulige/leetcode/issues/10)|`数组` `双指针`|2024-01-03T15:24:02Z|
 |9|[HJ9 提取不重复的整数](https://github.com/sumulige/huawei-od/issues/9)|`hash` `数组`|2024-01-01T14:34:51Z|
 |8|[HJ8 合并表记录](https://github.com/sumulige/huawei-od/issues/8)|`hash`|2024-01-01T14:25:38Z|
 |7|[HJ7 取近似值](https://github.com/sumulige/huawei-od/issues/7)|`基础数学` `语法题`|2024-01-01T14:16:09Z|
